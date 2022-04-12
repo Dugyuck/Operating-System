@@ -1,0 +1,1 @@
+main(i){for(i;i<56;i++)putchar(i%11?i%2?32:88:10);}
